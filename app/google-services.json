@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528826206116",
+    "project_id": "stream-home-ee647",
+    "storage_bucket": "stream-home-ee647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528826206116:android:43d5821d533402fa82a331",
+        "android_client_info": {
+          "package_name": "com.firdavs.android.streamhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfM9GcErr7xgz92xAgu9_u6uYBGI9p-Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
